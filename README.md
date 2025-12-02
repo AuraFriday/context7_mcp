@@ -1,5 +1,7 @@
 # Context7 — Always-Current Library Documentation
 
+Instant provision to your AI of current API and documentation for thousands of libraries.
+
 > **Any library. Current docs. Code examples included.** Your AI never works with outdated documentation again.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
